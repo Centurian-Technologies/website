@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="92" viewBox="0 0 92 92">
+  <g id="Group_125" data-name="Group 125" transform="translate(-296 -470)">
+    <circle id="Ellipse_88" data-name="Ellipse 88" cx="46" cy="46" r="46" transform="translate(296 470)" fill="#3480e3"/>
+    <g id="Icon_feather-refresh-ccw" data-name="Icon feather-refresh-ccw" transform="translate(318.112 495.925)">
+      <path id="Path_474" data-name="Path 474" d="M1.5,6v9.746h9.746" transform="translate(-1.5 1.035)" fill="none" stroke="#d6e6fa" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      <path id="Path_475" data-name="Path 475" d="M35.246,30.746V21H25.5" transform="translate(12.401 1.203)" fill="none" stroke="#d6e6fa" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      <path id="Path_476" data-name="Path 476" d="M42.752,17.857A19.41,19.41,0,0,0,29,5a18.433,18.433,0,0,0-17.677,5.379L1.5,20.084M48.064,28.99,38.243,38.7a18.433,18.433,0,0,1-17.677,5.379A19.41,19.41,0,0,1,6.813,31.216" transform="translate(-1.5 -4.503)" fill="none" stroke="#d6e6fa" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+    </g>
+  </g>
+</svg>

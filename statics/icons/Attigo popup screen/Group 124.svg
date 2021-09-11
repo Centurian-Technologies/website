@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="92" viewBox="0 0 92 92">
+  <g id="Group_124" data-name="Group 124" transform="translate(-833 -808)">
+    <circle id="Ellipse_89" data-name="Ellipse 89" cx="46" cy="46" r="46" transform="translate(833 808)" fill="#3480e3"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(853.533 828.533)">
+      <g id="invisible_box" data-name="invisible box" transform="translate(6.506 2.643)">
+        <rect id="Rectangle_151" data-name="Rectangle 151" width="36" height="37" transform="translate(-0.039 -0.176)" fill="none"/>
+      </g>
+      <g id="Q3_icons" data-name="Q3 icons" transform="translate(0 0)">
+        <path id="Path_480" data-name="Path 480" d="M53.972,28.986l-9.449-22.8h0A45.24,45.24,0,0,0,27.986,3,45.239,45.239,0,0,0,11.45,6.189h0L2,28.986H2v2.362a9.449,9.449,0,0,0,18.9,0V28.986h0l-7.56-17.718.354-.945a40.515,40.515,0,0,1,11.93-2.48V47.885H17.355a2.362,2.362,0,1,0,0,4.725H38.617a2.362,2.362,0,1,0,0-4.725H30.348V7.843a40.515,40.515,0,0,1,11.93,2.48l.354.945-7.56,17.718h0v2.362a9.449,9.449,0,0,0,18.9,0ZM11.449,36.073a4.725,4.725,0,0,1-4.134-2.362h8.268A4.725,4.725,0,0,1,11.449,36.073Zm4.961-7.087H5.78l5.67-12.639ZM44.523,16.347l4.961,12.639H38.853Zm0,19.726a4.725,4.725,0,0,1-4.134-2.362h8.268A4.725,4.725,0,0,1,44.523,36.073Z" transform="translate(-2 -3)" fill="#d6e6fa"/>
+      </g>
+    </g>
+  </g>
+</svg>
